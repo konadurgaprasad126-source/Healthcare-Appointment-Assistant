@@ -1,0 +1,25 @@
+APPOINTMENT FAQ
+
+Q: How can I book an appointment?
+A: Select the required department and doctor, choose an available date and time, enter the patient details, and confirm the appointment.
+
+Q: Can I choose a doctor?
+A: Yes. The simulated system displays doctors according to the selected department.
+
+Q: Can I choose an appointment time?
+A: Yes. The system displays available appointment slots for the selected doctor and date.
+
+Q: What happens after booking?
+A: The selected slot is marked unavailable and an appointment confirmation is generated.
+
+Q: Can two patients book the same slot?
+A: No. Once a slot is booked, it becomes unavailable.
+
+Q: What information is required?
+A: The system requires the patient's name and phone number along with the selected doctor, date, and time.
+
+Q: Is this a real hospital appointment system?
+A: No. This is a simulated appointment system developed for educational purposes.
+
+Q: What should I do in an emergency?
+A: Emergency medical conditions should not be handled through routine appointment scheduling. Seek appropriate emergency medical assistance.

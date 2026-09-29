@@ -1,0 +1,30 @@
+HOSPITAL SERVICES
+
+The hospital provides the following departments and services.
+
+1. General Medicine
+General physicians provide consultation for common health problems such as fever, cold, cough, weakness, and routine health checkups.
+
+2. Cardiology
+The Cardiology department provides consultation related to heart and cardiovascular concerns.
+
+3. Dermatology
+The Dermatology department provides consultation for skin, hair, acne, rashes, itching, and related concerns.
+
+4. Dentistry
+The Dentistry department provides dental consultation for tooth pain, teeth problems, gum problems, and routine dental care.
+
+5. Orthopedics
+The Orthopedics department provides consultation for bone, joint, muscle, knee, back, and mobility-related problems.
+
+6. Neurology
+The Neurology department provides consultation for neurological concerns such as headaches, migraines, nerve-related problems, and memory concerns.
+
+7. Appointment Service
+Patients can use the simulated appointment system to select a department, doctor, date, and available time slot.
+
+8. Doctor Availability
+Doctor availability is based on the simulated appointment database. Available slots can change after an appointment is booked.
+
+9. Emergency Service
+Emergency medical conditions should be directed to appropriate emergency medical services rather than routine appointment scheduling.

@@ -1,0 +1,12 @@
+HOSPITAL POLICIES
+
+1. Appointments should be booked in advance.
+2. Patients should arrive 15 minutes before their appointment.
+3. Patients should carry a valid identification document.
+4. Appointment availability depends on the selected doctor and date.
+5. Emergency medical conditions should be handled by emergency services and not through routine appointment scheduling.
+6. Patients can contact the hospital reception for appointment-related assistance.
+7. Appointment changes depend on available slots.
+8. Hospital services and doctor availability may change.
+9. Patients should provide accurate contact information when booking.
+10. This system is a simulated appointment system for educational purposes.
